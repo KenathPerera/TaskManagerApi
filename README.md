@@ -1,4 +1,4 @@
-# 🧠 Task Manager API (.NET 9)
+# 🧠 Task Manager API (.NET 9) - Sample Project with core concepts
 
 This is a clean, modular API built with ASP.NET Core 9 using MVC architecture and Entity Framework Core (SQLite).  
 Includes secure JWT authentication with roles and audit logging.
